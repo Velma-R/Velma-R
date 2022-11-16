@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Velma-R
-- 👀 I’m interested in software engineering course
+- 👀 I’m aspiring to be a soft ware engineer 
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on more project to sharpen my skills.
 - 📫 How to reach me linked in 
